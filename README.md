@@ -30,6 +30,9 @@
 - Junit
 - karma
 - Sonar
+- base mémoire pour les tests ???
+- Spring security
+- 
 
 ###OPS
 
