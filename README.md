@@ -1,19 +1,17 @@
-#Projet Super Coloc
+#Projet Super Voyageur
 
 ##MOA
 
 ###Macro fonctionnalités
 
-- gestion des charges
-- calendrier du ménage
-- agenda des sorties
-- présence des colocs / vacances
-- ajout de nouveaux colocs / suppression
-- messagerie interne
-- achats de la colocation
-- liste de courses
-- espace personnel par coloc
-- éléments partagés ?
+- gestion du planning des voyages
+- rédaction de carnet de voyages
+- espace personnel
+- gestion des frais
+- album de photos souvenir
+- gestion des partenaires de voyage
+- préparation du voyage (étapes)
+- liste d'affaires à emporter
 
 ##MOE
 
@@ -23,7 +21,7 @@
 - Spring Boot
 - Spring data JPA
 - Angular JS / Angular 2
-- posGre SQL
+- postGre SQL
 - gulp/grunt
 - Maven/gradle
 - npm
@@ -32,7 +30,7 @@
 - Sonar
 - base mémoire pour les tests ???
 - Spring security
-- 
+- Webservice Rest (angular)
 
 ###OPS
 
