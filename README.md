@@ -20,18 +20,18 @@
 - Java 8
 - Spring Boot
 - Spring data JPA
-- Angular JS / Angular 2
+- Angular 4
 - postGre SQL
 - gulp/grunt
 - Maven/gradle
-- npm
 - Junit
 - karma
 - Sonar
-- base mémoire pour les tests
+- base mémoire pour les tests h2
 - Spring security
 - Webservice Rest (angular)
 - LiquiBase
+- SpringBootAdmin
 
 ###OPS
 
