@@ -1,8 +1,8 @@
-#Projet Super Voyageur
+# Projet Super Voyageur
 
-##MOA
+## MOA
 
-###Macro fonctionnalités
+### Macro fonctionnalités
 
 - gestion du planning des voyages
 - rédaction de carnet de voyages
@@ -13,9 +13,9 @@
 - préparation du voyage (étapes)
 - liste d'affaires à emporter
 
-##MOE
+## MOE
 
-###Dev
+### Dev
 
 - Java 8
 - Spring Boot
@@ -33,7 +33,7 @@
 - LiquiBase
 - SpringBootAdmin
 
-###OPS
+### OPS
 
 - intégration continue jenkins
 - Docker
@@ -41,12 +41,12 @@
 - artifactory
 - Git / gitflow
 
-###Gestion de projet
+### Gestion de projet
 
 - Trello
 - Slack
 
-###Other
+### Other
 
 - Serveur debian pour l'hébergement
 - administration à distance
